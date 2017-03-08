@@ -4,7 +4,7 @@
 
 # Site
 title: ningwy's blog
-subtitle: 越努力，越幸运
+subtitle: 博学审问慎思明辨笃行
 description: 
 author: ningwy
 language: zh-Hans
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -77,6 +77,9 @@ avatar: /uploads/avatar.jpg
 
 #duoshuopinglun
 duoshuo_shortname: ningwy
+
+#baidu_analytics
+baidu_analytics: 838909c17dd0294163da430657e01231
 
 #yilia configuration
 jsonContent:
@@ -97,3 +100,5 @@ jsonContent:
     excerpt: false
     categories: false
     tags: true
+ 
+
